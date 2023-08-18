@@ -1,2 +1,2 @@
 # to find out the change of main branch
-to test the repo
+to test the repository
